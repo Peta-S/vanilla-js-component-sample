@@ -1,0 +1,6 @@
+1) Create the component javascript file (It can be any name)
+2) Give the component a name (It must be snake-case ie "header-component") and define it at the bottom with customElements
+3) Import the script file into the html file: <script src="header-component.js"></script>
+4) Add the component tag to your html: <header-component>Home</header-component>
+
+Test your component
